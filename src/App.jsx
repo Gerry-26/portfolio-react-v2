@@ -21,7 +21,7 @@ function App() {
     <div className="pagina">
       <header className="hero">
         <p className="tag">Atividade de Migração para React</p>
-        <h1>Seu Nome Aqui</h1>
+        <h1>Gerriane</h1>
         <p className="descricao">
           Este portfólio foi desenvolvido em React como parte da atividade prática de migração,
           apresentando uma estrutura moderna, responsiva e organizada em componentes.
@@ -36,8 +36,9 @@ function App() {
         <section className="secao sobre">
           <h2>Sobre mim</h2>
           <p>
-            Escreva aqui uma breve apresentação sobre você, sua formação, suas habilidades e
-            seus objetivos na área de tecnologia. Você pode personalizar esse texto do seu jeito.
+            Sou um profissional da área de tecnologia, atuando com suporte, redes e manutenção de equipamentos eletrônicos, com experiência prática em soluções de TI e telecomunicações. Tenho facilidade em identificar e resolver problemas técnicos, sempre buscando eficiência e qualidade no atendimento.
+
+Além da atuação técnica, também desenvolvo projetos web, com foco em interfaces modernas e funcionais, buscando sempre evoluir meus conhecimentos em desenvolvimento front-end, especialmente com React.
           </p>
         </section>
 
