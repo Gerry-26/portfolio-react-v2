@@ -1,0 +1,10 @@
+Atividade: Migração com React
+
+Este documento contém os links solicitados da atividade de migração do portfólio para React,
+incluindo o repositório no GitHub e o deploy na Vercel.
+
+Link do Repositório no GitHub:
+https://github.com/SEU-USUARIO/SEU-REPOSITORIO
+
+Link do Projeto Publicado (Vercel):
+https://SEU-PROJETO.vercel.app
