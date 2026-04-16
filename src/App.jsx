@@ -68,9 +68,9 @@ Além da atuação técnica, também desenvolvo projetos web, com foco em interf
 
         <section className="secao contato" id="contato">
           <h2>Contato</h2>
-          <p>Email: seuemail@exemplo.com</p>
-          <p>GitHub: github.com/seu-usuario</p>
-          <p>LinkedIn: linkedin.com/in/seu-perfil</p>
+          <p>Email: gerrianecarvalho26@gmail.com</p>
+          <p>GitHub: https://github.com/Gerry-26/portfolio-react-v2</p>
+          <p>LinkedIn: N/A</p>
         </section>
       </main>
     </div>
